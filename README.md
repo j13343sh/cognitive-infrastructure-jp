@@ -20,5 +20,6 @@ AI運用論は人間とAIがRealityとの対話を継続するための運営を
 - 図
 - 記事
 
-## 研究元資料
+## 研究元
 
+[ルーンファクトリー継承研究](https://github.com/j13343sh/Rune-Factory-Inheritance-Research)
