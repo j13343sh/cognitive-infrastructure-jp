@@ -21,7 +21,7 @@ AI運用論は人間とAIがRealityとの対話を継続するための運営を
 - 共通
 
 ## 相互リンク
-[英語版]()
+[英語版](https://github.com/j13343sh/cognitive-infrastructure-en)
 
 ## 研究元
 
