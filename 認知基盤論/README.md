@@ -1,18 +1,18 @@
-# Cognitive Infrastructure Theory
+**# Cognitive Infrastructure Theory
 
 認知基盤論は、認知活動を支える基盤構造を観測する Current Working Draft です。
 
-[Architecture View]
+[認知基盤構造図]
 
-[Concept Relationship Graph]
+[認知循環図]
 
-[Cognitive Cycle]
+[概念依存構造図]
 
-[Multi-View Structure]
+[多層View構造図]
 
 ## PDF
 
-公開版PDF
+[公開版PDF](../PDF/認知基盤論_公開版.pdf)
 
 ## 章構成
 
@@ -32,3 +32,4 @@
 ## 関連プロジェクト
 
 AI運用論
+**
