@@ -1,4 +1,4 @@
-**# Cognitive Infrastructure Theory
+# 認知基盤論
 
 認知基盤論は、認知活動を支える基盤構造を観測する Current Working Draft です。
 
