@@ -8,5 +8,4 @@ AI運用論では、理論だけでなく、その理論に至るReality・Obser
 
 ## 閲覧はこちら
 
-- **English Case Studies**
-  https://github.com/j13343sh/cognitive-infrastructure-en/tree/main/ai-operations-theory/case-studies
+- [**English Case Studies**](https://github.com/j13343sh/cognitive-infrastructure-en/tree/main/ai-operations-theory/case-studies)
