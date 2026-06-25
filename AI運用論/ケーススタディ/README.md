@@ -9,3 +9,5 @@ AI運用論では、理論だけでなく、その理論に至るReality・Obser
 ## 閲覧はこちら
 
 - [**English Case Studies**](https://github.com/j13343sh/cognitive-infrastructure-en/tree/main/ai-operations-theory/case-studies)
+
+※英語版ケーススタディは、ブラウザ翻訳や各種AI翻訳ツールを利用しながら閲覧することも想定している。
