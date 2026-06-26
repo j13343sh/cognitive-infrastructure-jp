@@ -23,6 +23,11 @@ AI運用論は人間とAIがRealityとの対話を継続するための運営を
 ## 相互リンク
 [英語版](https://github.com/j13343sh/cognitive-infrastructure-en)
 
+## 関連Repository
+
+- ⚙️ [AI運用論](/AI運用論)
+- 📘 [認知基盤論](/認知基盤論)
+
 ## 研究元
 
 認知基盤論およびAI運用論は、
