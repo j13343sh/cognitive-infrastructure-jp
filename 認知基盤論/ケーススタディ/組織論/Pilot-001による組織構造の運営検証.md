@@ -25,7 +25,7 @@ graph TD
 
     V --> RV["Review Division<br/>査読・品質確認・Peer Review"]
     RV --> AU["Audit & Archive Division<br/>監査・Decision Log・履歴・ドリフト検知"]
-
+```
 
 初期提案されたDivision
 | Division             | 本懐                     |
@@ -89,7 +89,7 @@ graph TD
 
     V --> QA["Quality Assurance Division<br/>査読・レビュー・整合性・品質保証"]
     QA --> AU["Audit & Archive Division<br/>監査・履歴・Decision Context・失敗ログ"]
-
+```
 
 初期提案された部門
 | 部門                   | 本懐                       |
