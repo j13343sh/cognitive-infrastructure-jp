@@ -68,7 +68,7 @@ AIのハルシネーションも同様である。
 
 まずReality Observation（現実の観察）として保持し、Reality（現実）によって検証することである。
 
-AI運用論では、このObservation（観察）・Verification（検証）・Decision（決断）の過程そのものが、ブレインストーミングの一形態となり得る可能性を検討している。
+AI運用論では、このObservation（観察）・Verification（検証）・Decisionの過程そのものが、ブレインストーミングの一形態となり得る可能性を検討している。
 
 最終的な判断基準となるのは、ハルシネーションではなくRealityである。
 
