@@ -1,6 +1,6 @@
 # Cognitive Infrastructure (JP)
 
-認知基盤論とAI運用論の日本語版研究アーカイブである。
+認知基盤論とAI運用論の日本語版研究Repositoryである。
 
 **本RepositoryはGitHub上での閲覧だけでなく、ZIPダウンロード後のローカル環境でも利用できるよう構成されている。**
 
