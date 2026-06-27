@@ -37,3 +37,9 @@ AI運用論は人間とAIがRealityとの対話を継続するための運営を
 継承・知識管理・運営構造の観察から発展した研究である。
 
 [ルーンファクトリー継承研究](https://github.com/j13343sh/Rune-Factory-Inheritance-Research)
+
+## ライセンス
+
+本リポジトリは CC BY-NC 4.0 で公開しています。
+
+詳細は [LICENSE.md](LICENSE.md) をご覧ください。
