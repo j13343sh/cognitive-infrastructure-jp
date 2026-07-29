@@ -18,7 +18,7 @@
 
 ### 知識論
 
-* 📄 [Production ObservationからDesign Languageへの段階形成](知識論/Production ObservationからDesign Languageへの段階形成.md)
+* 📄 [Production ObservationからDesign Languageへの段階形成](知識論/Production-ObservationからDesign-Languageへの段階形成.md)
 
 ### 経験論
 
