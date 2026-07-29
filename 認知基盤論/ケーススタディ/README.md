@@ -12,13 +12,23 @@
 
 ## ケーススタディ一覧
 
+### 情報論
+
+* 📄 [Artifact更新における状態分離](情報論/Artifact更新における状態分離.md)
+
+### 知識論
+
+* 📄 [Production ObservationからDesign Languageへの段階形成](知識論/Production ObservationからDesign Languageへの段階形成.md)
+
 ### 経験論
 
 * 📄 [Pilot-001運営経験と文章表現](経験論/Pilot-001運営経験と文章表現.md)
+* 📄 [Rune Factory研究におけるFailureから研究方法論への形成](経験論/Rune-Factory研究におけるFailureから研究方法論への形成.md)
 
 ### 教育論
 
 * 📄 [教育論とPilot-001](教育論/教育論とPilot-001.md)
+* 📄 [役割固有の経験によるCapability再構築](教育論/役割固有の経験によるCapability再構築.md)
 
 ### 継承論
 
